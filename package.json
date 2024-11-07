@@ -5,7 +5,8 @@
     "scripts": {
         "compile": "./node_modules/.bin/jsdoc ",
         "solid": "bun test tests/solid/*",
-        "ds": "bun test tests/design_pattern/*"
+        "ds": "bun test tests/design_pattern/*",
+        "da": "bun test tests/design_pattern/*"
     },
     "devDependencies": {
         "@types/bun": "latest"
